@@ -1,1 +1,15 @@
++
+-
+*
+/
+// integer divide
+** 
+%
 
+a,b,c = 1,2,3
+
+a,b = b,a :change value of varible 
+
+
+8 standard type of varible:
+integer,float,string,list,touple,dic,bool,set
